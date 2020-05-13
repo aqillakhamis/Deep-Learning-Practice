@@ -1,4 +1,5 @@
 # Deep-Learning-Practice
 
-Deep Learning hands on practice using Convolutional Neural Network for MNIST dataset
+Deep Learning hands on practice (various dataset) using Keras Framework 
+
 
